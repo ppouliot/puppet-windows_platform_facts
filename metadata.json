@@ -1,5 +1,5 @@
 {
-  "name": "puppet-windows_platform_facts",
+  "name": "windows_platform_facts",
   "version": "0.0.1",
   "author": "Peter J. Pouliot",
   "summary": "A puppet module to provide facts for the Windows Platforms",
