@@ -1,0 +1,14 @@
+{
+  "name": "puppet-windows_platform_facts",
+  "version": "0.0.1",
+  "author": "Peter J. Pouliot",
+  "summary": "A puppet module to provide facts for the Windows Platforms",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ppouliot/puppet-windows_platform_facts",
+  "project_page": "https://github.com/ppouliot/puppet-windows_platform_facts",
+  "issues_url": "https://github.com/ppouliot/puppet-windows_platform_facts/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
