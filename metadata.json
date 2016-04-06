@@ -1,6 +1,6 @@
 {
   "name": "puppet-windows_platform_facts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Peter J. Pouliot",
   "summary": "A puppet module to provide facts for the Windows Platforms",
   "license": "Apache 2.0",
